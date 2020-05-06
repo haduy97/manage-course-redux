@@ -1,0 +1,6 @@
+export const GET_COURSE = "GET_COURSE"
+export const INPUT_COURSE = "INPUT_COURSE"
+export const ADD_COURSE = "ADD_COURSE"
+export const DEL_MODAL = "DEL_MODAL"
+export const DEL_COURSE = "DEL_COURSE"
+export const SELECT_COURSE = "SELECT_COURSE"
